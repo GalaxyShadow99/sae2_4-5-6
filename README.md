@@ -1,5 +1,57 @@
 # Viking Transport - Application de Gestion d'un réseau de transport en commun
- 
+
+# SAE_2.4-5-6
+
+Dépôt Git de notre SAE 2.2-5-6, projet réalisé dans le cadre de notre première année de BUT informatique à l'IUT de Caen.
+
+---
+
+## Captures d'écran
+
+### Accueil
+
+![Accueil](ReadmeImages/Index.png)
+
+### Carte interactive
+
+![Carte interactive](ReadmeImages/CarteInteractive.png)
+
+### Réservation via la carte
+
+![Réservation via la carte](ReadmeImages/ReservationCarte.png)
+
+### Réservation manuelle
+
+![Réservation manuelle](ReadmeImages/ReserverManuellement.png)
+
+### Lignes de transport
+
+![Lignes de transport](ReadmeImages/ListeLigne.png)
+
+### Grille tarifaire
+
+![Grille tarifaire](ReadmeImages/Tarifs.png)
+
+### Connexion
+
+![Connexion](ReadmeImages/Connexion.png)
+
+### Tableau de bord administrateur
+
+![Tableau de bord administrateur](ReadmeImages/AdminDashboard.png)
+
+### Gestion des lignes
+
+![Gestion des lignes](ReadmeImages/ModifierLignes.png)
+
+### Gestion des clients
+
+![Gestion des clients](ReadmeImages/ListeClients.png)
+
+### Statistiques
+
+![Statistiques](ReadmeImages/Statistiques.png)
+
 <span style="color:red;"> <a href="https://sae2-456.xune.app/index.php" target="_blank"> Vous pouvez visualiser notre projet ICI ! </a> </span>
 
 Ce projet a été réalisé dans le cadre de la première année de BUT Informatique (IUT) à l'Université de Caen. Développé en équipe, l'objectif était de concevoir une application web dynamique complète pour pouvoir gérer tout un réseau de transport normand fictif. 
